@@ -11,11 +11,11 @@ app_color = "green"
 app_email = "support@criscoconsulting.in"
 app_license = "MIT"
 
-doc_events = {
-	"Sales Invoice": {
-		"autoname": "garage.custom_method.set_si_autoname"
-	}
-}
+# doc_events = {
+# 	"Sales Invoice": {
+# 		"autoname": "garage.custom_method.set_si_autoname"
+# 	}
+# }
 
 # Includes in <head>
 # ------------------
